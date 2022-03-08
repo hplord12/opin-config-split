@@ -1,0 +1,16 @@
+uuid: 019c33db-daed-42e7-9001-eec3e3b9df71
+langcode: en
+status: true
+dependencies: {  }
+id: dev
+label: dev
+description: ''
+weight: 0
+stackable: false
+storage: folder
+folder: sites/default/files/dev
+module:
+  devel: 0
+theme: {  }
+complete_list: {  }
+partial_list: {  }
